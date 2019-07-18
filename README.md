@@ -10,6 +10,8 @@ I assume that you already have installed node and npm if not you can follow inst
 To check that you have node and npm installed you can type:
 
 > node -v
+
+
 > npm -v
 
 You need to install puppeteer first. So go to your project directory from terminal and type:
